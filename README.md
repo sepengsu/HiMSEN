@@ -5,9 +5,8 @@
 
 데이터는 대회 규정상 삭제 완료.
 ## 발표자료
-![image](https://github.com/sepengsu/HiMSEN/assets/111292354/985e3765-9380-487f-a891-9d4ede03e355)
-
-
+![image](https://github.com/sepengsu/HiMSEN/assets/111292354/b9f7107a-fead-430b-adb0-66f338f51c3c)
 ## 보고서
-![image](https://github.com/sepengsu/HiMSEN/assets/111292354/d30daefb-471c-47bf-9daa-773f76f9646d)
+![image](https://github.com/sepengsu/HiMSEN/assets/111292354/c605f63c-6edb-421a-9bab-116c1fad3812)
+
 
